@@ -1,0 +1,8 @@
+footer {height: 90px;
+    padding: 10px;
+    background-color: rgb(127, 45, 45);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: left;
+    overflow: hidden;
+    color: white;
+}

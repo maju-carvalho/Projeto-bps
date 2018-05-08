@@ -1,0 +1,38 @@
+.div-menu { height: 190px; 
+    padding: 10px;
+    background: rgb(127, 45, 45); 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none; 
+    text-align: center;
+    overflow: hidden;
+    word-spacing: 120px;
+    font-size: 1.3em;
+    text-decoration: none;
+    
+    
+    
+}
+.menu-superior li{
+    display: inline-block;
+    padding: 5px;
+    margin-top: 120px;
+    
+    
+    
+    
+}
+.div-menu img{
+    background-size: auto 100%;
+    background-position: center top;
+}
+
+.menu-superior li a{
+    color: white;
+}
+
+.menu-superior li a:hover {
+    -webkit-text-transform: scale(1.5);
+    -ms-text-transform: scale(1.5);
+    text-transform: scale(1.5);
+    transition: 1s ease-in;
+}
